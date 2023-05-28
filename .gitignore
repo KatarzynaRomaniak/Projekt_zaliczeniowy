@@ -1,0 +1,16 @@
+*.obj
+*.log*
+*.tlog*
+*.vcxproj*
+*.zip
+*.gif
+*.exe
+*.idb
+*.pdb
+*.sarif
+*.xml
+*.exe*
+*.ilk
+*.res
+*.iobj
+*.idb
